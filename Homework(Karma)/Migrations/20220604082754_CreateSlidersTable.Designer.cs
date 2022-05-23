@@ -9,8 +9,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Homework_Karma_.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20220522162520_CreatedSliderTable")]
-    partial class CreatedSliderTable
+    [Migration("20220604082754_CreateSlidersTable")]
+    partial class CreateSlidersTable
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

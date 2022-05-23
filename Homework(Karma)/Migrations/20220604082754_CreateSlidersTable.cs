@@ -2,7 +2,7 @@
 
 namespace Homework_Karma_.Migrations
 {
-    public partial class CreatedSliderTable : Migration
+    public partial class CreateSlidersTable : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
